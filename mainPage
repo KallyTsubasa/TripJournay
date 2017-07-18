@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Trip to Japan</title>
+		<style type="text/css">
+			body{
+				font-family:  "Times New Roman", Georgia, Serif;
+				width:1000px;
+				margin: 0 auto;
+				padding-top: 50px;
+			}
+			hr{
+				color:#eeeeee;
+				border-color:#eeeeee;
+				background-color: #eeeeee;
+				margin-top:20px;
+				margin-bottom: 20px;
+			}
+		</style>
+	</head>
+	<body>
+		<div style="width:100%;height:510px;" name="cover">
+			<img src="pic/YHIP0003.jpg" style="width:1000px;display: block;align-content: center;" alt="HachiSta">
+			<div style="font-size: 48px; position: absolute; top: 350px;text-align: center;width:1000px;color:white;">
+				First Trip to Japan
+			</div>
+			<div  style="font-family:Arial;font-size: 24px; position: absolute; top: 440px;text-align: right;width:900px;color:white;">
+				<p>Go closer to someone I am adicted with</p>
+			</div>
+			<div  style="font-family:Arial;font-size: 20px; position: absolute; top: 480px;text-align: right;width:900px;color:white;">
+				<p>Who mermised me for a while</p>
+			</div>
+		</div>
+		<div style="width:1000px;height:350px;padding-top:30px" name="introduction">
+			<hr style="border-width:3px;"/>
+			<div id="tripMap" style="float:left;width:300px;">
+				<div style="height:40px;font-size:22px;color:navy;">
+					:: My Trip
+				</div>
+				<div id="myTrip">
+					<img src="pic/route/mapTokyo.jpg" style="width:300px; float:left">
+					<div style="font-size:12px;position:absolute;width:300px；">
+						<ul style="background-color: white; opacity: 0.7;margin-top: 10px;padding-left:20px;">
+							<li>Shinsuku</li>
+							<li>Tsukiji</li>
+							<li>Diver City</li>
+							<li>Aaeon Mall</li>
+						</ul>
+					</div>
+				</div>
+				<div style="height:20px;font-size:18px;color:gray;text-align:right;">
+					and more...
+				</div>
+			</div>
+			<div id="participator1" style="float:left;width:300px;margin-left:50px; ">
+				<div style="height:40px;font-size:22px;color:navy;">
+					:: Family
+				</div>
+				<div id="family">
+					<img src="pic/route/family.jpg" style="width:300px;">
+				</div>
+				<div style="height:20px;font-size:18px;color:gray;text-align:right;">
+					and more...
+				</div>
+			</div>
+			<div id="participator2" style="float:left;width:300px;margin-left:50px;">
+				<div style="height:40px;font-size:22px;color:navy;">
+					:: Friends and Me
+				</div>
+				<div id="friedns">
+				<a href="Friends.html">
+					<img src="pic/route/friends.jpg" style="width:300px;">
+					</a>
+				</div>
+				<div style="height:20px;font-size:18px;color:gray;text-align:right;">
+				<a href="Friends.html">
+					<p>and more...<p>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div style="width:1000px;height:300px;font-size:24px;margin-top:50px;">
+			<hr/>
+			<div style="float:left;width:480px;">
+				<div style="height:30px;font-size:22px;color:gray;">
+					<b>STAGE: スター　ピープールズ！！</b>
+				</div>
+				<div>
+					<div style="width:200px;float:left;">
+						<img src="pic/YGKV8499.jpg" style="width:200px;float:left;">
+					</div>
+					<div style="padding-left:210px;">
+						<img src="pic/route/dialogBox1.jpg" style="width:270px;">
+						<div style="font-size:14px;position:absolute; top:1050px;padding-left:35px;text-align:center;width:220px;color:black;">
+              				 The stage was the <b>crucial</b> factor drove me making a decision for going Japan. The protagonist is my favourite actor right now. <br>
+              				<!--<ul style="list-style-type:none;text-align:center;color:navy;text-shadow: gray;width:220px;">
+								<li>Shogo Suzuki</li>
+								<li>Iketa Junya</li>
+								<li>and Their friends</li>
+							</ul>-->
+         			   </div>
+					</div>
+					<div style="height:20px;font-size:18px;color:gray;text-align:right;">
+						and more...
+					</div>
+				</div>
+			</div>
+			<div style="float:left;width:480px;margin-left:40px">
+				<div style="height:30px;font-size:22px;color:gray;">
+					<b>Toei HeroWorld in Tokyo</b>
+				</div>
+				<div>
+				<a href="ToeiHeroWord.html">
+					<img src="pic/UZJF9354.jpg" style="width:200px;float:left;"></a>
+					<div style="padding-left:210px;">
+						<img src="pic/route/dialogBox1.jpg" style="width:270px;">
+						<div style="font-size:14px;position:absolute; top:1040px;padding-left:35px;text-align:center;width:230px;color:black;">
+							<p><b><i>Bring the dream of hero to everyone.</i></b><br/>
+							The day I went was the last open day for the Toei HeroWorld. I wish the play will be gonna to open again.
+							</p>
+						</div>
+					<!--<div style="padding-left:300px;font-family:Geogre;font-size:14px;color: black;padding-left:40px;">
+						<p><br/>
+						<b><i>Bring the dream of hero to everyone.</i></b><br/>
+						<br/>
+						The day I went was the last open day for the Toei HeroWorld. I wish the play will be gonna to open again.
+						</p>
+					</div>-->
+					<div style="height:20px;font-size:18px;color:gray;text-align:right;">
+					<a href="ToeiHeroWord.html">
+						and more...
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div style="text-align:right;font-size:16px;color:gray;margin-top:300px;">
+			2017.07
+			<br>
+			For my life
+		</div>
+	</body>
+</html>
